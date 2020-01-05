@@ -1,15 +1,15 @@
 ![katoolin](https://cloud.githubusercontent.com/assets/8742190/9415562/83397aae-4840-11e5-8f72-28dfffcc70a9.png)
 # katoolin
-Automatically install all Kali linux tools
+Installer automatiquement tous les outils Kali-Linux
 
-# Features
-- Add Kali linux repositories
-- Remove kali linux repositories
-- Install Kali linux tools
+# Étapes
+- Ajouter des repositories Kali-Linux
+- Supprimer les repositories Kali-Linux
+- Installer les outils Kali-Linux
 
-# Requirements
+# Prérequis
 - Python 2.7
-- An operating system (tested on Ubuntu)
+- Un système d'exploitation (testé sur Ubuntu)
 
 # Installation
 - sudo su
@@ -21,18 +21,18 @@ Automatically install all Kali linux tools
 https://www.youtube.com/watch?v=8VxCWVoZEEE
 
 # Usage
-- Typing the number of a tool will install it
-- Typing 0 will install all Kali Linux tools
-- back : Go back
-- gohome : Go to the main menu
-- By installing armitage , you will install metasploit
+- Taper le numéro d'un outil l'installera
+- Tapez 0 pour installer tous les outils Kali Linux
+- retour: Retour
+- gohome: accédez au menu principal
+- En installant Armitage, vous installerez Metasploit
 
 # Warning
-Before updating your system , please remove all Kali-linux repositories to avoid any kind of problem .
+Avant de mettre à jour votre système, veuillez supprimer tous les référentiels Kali-linux pour éviter tout type de problème.
 
-# I have some questions!
+# Vous avez des questions!
 
-Please visit https://github.com/LionSec/katoolin/issues
+Veuillez visiter https://github.com/LionSec/katoolin/issues
 
 # Donations
 - Paypal : https://www.paypal.me/lionsec
