@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=8VxCWVoZEEE
 # Usage
 - Taper le numéro d'un outil l'installera
 - Tapez 0 pour installer tous les outils Kali Linux
-- retour: Retour
+- back: Retour
 - gohome: accédez au menu principal
 - En installant Armitage, vous installerez Metasploit
 
